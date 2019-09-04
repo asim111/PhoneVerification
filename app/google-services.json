@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "987175531847",
+    "firebase_url": "https://phoneverification-cc125.firebaseio.com",
+    "project_id": "phoneverification-cc125",
+    "storage_bucket": "phoneverification-cc125.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987175531847:android:5173d0649692d445",
+        "android_client_info": {
+          "package_name": "com.example.phoneverification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987175531847-16nk4b04v0q3o7mqmn4ativjqkjclv46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phoneverification",
+            "certificate_hash": "cbf8f9c780ce6f4f2c4d8919d2e65b9e94927ff3"
+          }
+        },
+        {
+          "client_id": "987175531847-l6elj5k00s6bhjjt7pmit28ufsj7cb2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnCx6ODW7Prb7KW6yu4jN2vuMSVSOhghc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987175531847-l6elj5k00s6bhjjt7pmit28ufsj7cb2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
